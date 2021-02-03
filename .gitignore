@@ -1,0 +1,12 @@
+
+*.zip
+yoloModel/best_full_model/saved_model.pb
+yoloModel/best_full_model/variables/variables.data-00000-of-00002
+yoloModel/best_full_model/variables/variables.data-00001-of-00002
+yoloModel/best_full_model/variables/variables.index
+yoloModel/best_tiny_efficient_model/saved_model.pb
+yoloModel/best_tiny_efficient_model/variables/variables.data-00000-of-00001
+yoloModel/best_tiny_efficient_model/variables/variables.index
+yoloModel/best_tiny_model/saved_model.pb
+yoloModel/best_tiny_model/variables/variables.data-00000-of-00001
+yoloModel/best_tiny_model/variables/variables.index
